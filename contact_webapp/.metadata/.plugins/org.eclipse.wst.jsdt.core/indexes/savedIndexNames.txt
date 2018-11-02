@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/agile/lokchandu/contact_webapp/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3978531782.index
